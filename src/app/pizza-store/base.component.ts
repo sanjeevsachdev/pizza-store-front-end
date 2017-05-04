@@ -17,10 +17,10 @@ import { BaseService }  from './base.service';
         <button md-raised-button (click)="openAddBaseDialog()" md-tooltip="Add a new base" color="accent">Add Base</button>
 
         <md-button-toggle-group #group="mdButtonToggleGroup" (change)="viewType = group.value">
-            <md-button-toggle value="grid" md-tooltip="Show list view">
+            <md-button-toggle value="grid" md-tooltip="Show grid view">
                 <md-icon>view_module</md-icon>
             </md-button-toggle>
-            <md-button-toggle value="list" md-tooltip="Show grid view">
+            <md-button-toggle value="list" md-tooltip="Show list view">
                 <md-icon>view_list</md-icon>
             </md-button-toggle>
         </md-button-toggle-group>
