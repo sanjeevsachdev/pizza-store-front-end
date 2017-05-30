@@ -5,7 +5,7 @@ Pizza Store Front End is an Angular front end application over [Pizza Store API]
 ## Prerequisites
 
 - [Pizza Store API](https://github.com/psachdev6375/devcapsule/tree/master/services) should be set up and running at http://localhost:8080/
-- Pizza Store Front End application is being developed with portable edition of [Node.js v4.8.0](https://nodejs.org/dist/v4.8.0/node-v4.8.0-win-x86.zip) that comes bundled with npm v4.3.0. 
+- Pizza Store Front End application is being developed on a Windows machine with portable edition of [Node.js v4.8.0](https://nodejs.org/dist/v4.8.0/node-v4.8.0-win-x86.zip) and npm v4.3.0.
 Download and unzip it in any directory on your machine.
 
 ## Project setup
@@ -25,5 +25,5 @@ npm install
 ```
 Build and run the application:
 ```shell
- npm start
+ npm run webpack-serve
  ```
