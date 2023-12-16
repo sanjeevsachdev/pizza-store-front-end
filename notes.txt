@@ -1,0 +1,23 @@
+<my-app>
+                <pizza-store>
+                                <base>
+                                                <base-grid>
+                                                </base-grid>
+                                               
+                                                <base-list>
+                                                </base-list>
+                                               
+                                                <add-base>
+                                                </add-base>
+                                </base>
+                               
+                                <topping>
+                                </topping>
+ 
+                                <pizza>
+                                </pizza>                              
+                               
+                                <order>
+                                </order>                            
+                </pizza-store>
+</my-app>
