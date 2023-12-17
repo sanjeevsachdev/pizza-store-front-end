@@ -5,16 +5,16 @@ Pizza Store Front End is an Angular front end application over [Pizza Store API]
 ## Screenshots
 
 ### Pizza bases grid view
-![screenshots](pizza-bases-grid-view.png)
+![pizza-bases-grid-view](./screenshots/pizza-bases-grid-view.png)
 
 ### Pizza bases list view
-![screenshots](pizza-bases-list-view.png)
+![pizza-bases-list-view](./screenshots/pizza-bases-list-view.png)
 
 ### Add a new pizza base
-![screenshots](pizza-bases-add-new.png)
+![pizza-bases-add-new](./screenshots/pizza-bases-add-new.png)
 
 ### Filter pizza bases
-![screenshots](pizza-bases-filter.png)
+![pizza-bases-filter](./screenshots/pizza-bases-filter.png)
 
 ## Screen layout
 
